@@ -1,4 +1,4 @@
-# ETL-CSV-Data-Engineering
+# ETL-CSV-Data-Pipeline
 
 This project demonstrates a basic ETL (Extract, Transform, Load) pipeline that processes stock market data. The pipeline extracts data from a CSV file, transforms it by calculating key metrics, and loads the processed data into an SQLite database.
 
